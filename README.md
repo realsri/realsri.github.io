@@ -1,4 +1,4 @@
-# realsri.github.io
+# Sri's Website
 
 The source repository for my personal website: [https://realsri.github.io](https://realsri.github.io).
 
